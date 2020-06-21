@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: "Arial";
 }
 
 a {
@@ -145,7 +145,16 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 33%;
+}
+
+.lesson:hover {
+   opacity: 0.5;
+}
+
+.lesson-bottom {
+  float: left;
+  width: 50%;
 }
 
 .lesson-icon {
@@ -153,10 +162,7 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
+  color: #656466;
 }
 
 .text-contents {
