@@ -163,6 +163,10 @@ header {
   position: relative;
 }
 
+.lesson img {
+  border-radius: 50%
+}
+
 .lesson-icon p {
   color: #656466;
 }
