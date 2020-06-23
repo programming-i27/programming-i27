@@ -12,6 +12,22 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  Body {
+    width: 100%;
+  }
+  
+  .Item-tambahan h2 {
+    color: #45aaf2;
+  }
+  
+  .container-gallery {
+    height: 1950px;
+  }
+  
+  .Gallery {
+    width: 100%;
+  }
 }
 
 /* Untuk Smartphone */
@@ -54,5 +70,33 @@
   .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
+  }
+  
+  Body {
+    width: 100%;
+  }
+  
+  .Item-tambahan {
+    opacity: 0.5;
+  }
+  
+  .Item-tambahan h2 {
+    text-align: center;
+    font-size: 24px;
+    opacity: 1;
+  }
+  
+  .Gallery {
+    width: 100%;
+  }
+  
+  .Gallery img {
+    width: 95%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .Gallery p {
+    line-height: 1px;
   }
 }
