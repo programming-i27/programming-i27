@@ -225,11 +225,10 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #DAA520;
+  background-color: #32CD32;
   cursor: pointer;
-  box-shadow: 0 7px #FFD700;
+  box-shadow: 0 7px #90EE90;
 }
-
 
 .message:active {
   position: relative;
