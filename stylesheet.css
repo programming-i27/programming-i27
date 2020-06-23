@@ -140,11 +140,11 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-  text-align: center;
 }
 
-.heading h2 {
+.heading h2 h3 {
   font-weight: normal;
+  text-align: center;
 }
 
 .lesson {
