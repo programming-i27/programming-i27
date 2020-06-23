@@ -251,3 +251,91 @@ footer {
   padding-bottom: 5px;
   background-color: #EAF2FA;
 }
+
+//item tambahan
+
+.Item-tambahan {
+  height: 670px;
+  max-width: 1170px;
+  background: url(https://agc.creativelive.com/agc/201605-CR8TVEPHCHAL/180618_creativephotographychallenge_lindseythomas_digitalweb_1600x900_final.jpg);
+  text-align: right;
+  margin: 10px;
+}
+
+.Item-tambahan h2 {
+  color: #3c6382;
+  font-family : "Courier New", Courier, monospace;
+  font-size: 56px;
+  padding: 500px 20px 0 0;
+}
+
+.container-gallery {
+  max-width: 1170px;
+  height: 850px;
+  padding: 10px;
+  background-color: rgba(188, 188, 188, 0.89);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container-gallery h3 {
+  float: right;
+  padding: 70px 5px;
+  font-size: 18px;
+}
+
+.Gallery {
+  position: relative;
+  margin: 5px;
+  text-align: center;
+  flex: auto;
+}
+
+.Gallery p {
+  color: white;
+  position: absolute;
+  font-size: 24px;
+  top: 50%;
+  width: 100%;
+}
+
+.Gallery img {
+  opacity: 0.75;
+}
+
+.Gallery:hover img{
+  opacity: 1;
+  box-shadow: 0 5px #fed330;
+}
+
+.Gallery:hover p {
+  opacity: 0;
+}
+
+.Gallery1 img {
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+}
+
+.Gallery1 p {
+  top: 40px;
+}
+
+.Gallery2 img {
+  height: 400px;
+  width: 600px;
+  margin: 10px;
+}
+
+.Gallery3 img {
+  height: 400px;
+  width: 600px;
+  margin: 10px;
+}
+
+.Gallery4 img {
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+}
