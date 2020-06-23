@@ -40,7 +40,7 @@ a {
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
-  color:Yellow;
+  color:White;
 }
 
 .btn-wrapper {
@@ -231,7 +231,7 @@ header {
   padding: 15px 40px;
   background-color: #0f275e;
   cursor: pointer;
-  box-shadow: 0 7px #90EE90;
+  box-shadow: 0 7px #0f275e;
 }
 
 .message:active {
