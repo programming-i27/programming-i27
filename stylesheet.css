@@ -140,9 +140,10 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  text-align: center;
 }
 
-.heading h2 h3 {
+.heading h2 {
   font-weight: normal;
   text-align: center;
 }
@@ -228,7 +229,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #32CD32;
+  background-color: #0f275e;
   cursor: pointer;
   box-shadow: 0 7px #90EE90;
 }
