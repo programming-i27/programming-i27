@@ -56,15 +56,6 @@ a {
   background-color: #09235c;
 }
 
-.whatsapp {
-  background-color: #00FA9A;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #66CDAA;
-}
-
 .btn {
   padding: 12px 24px;
   color: white;
@@ -231,7 +222,7 @@ header {
   padding: 15px 40px;
   background-color: #0f275e;
   cursor: pointer;
-  box-shadow: 0 7px #7285b3;
+  box-shadow: 0 7px #0b0e45;
 }
 
 .message:active {
