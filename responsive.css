@@ -97,6 +97,7 @@
   .Gallery img {
     width: 95%;
     height: auto;
+    margin-left: 0px;
     margin-bottom: 20px;
   }
   
