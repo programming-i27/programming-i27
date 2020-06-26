@@ -91,3 +91,7 @@ nav ul li a:hover{
   #check:checked ~ ul{
     left: 0;
   }
+    .logo {
+    width: 180px;
+  }
+}
