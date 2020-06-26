@@ -92,6 +92,7 @@ nav ul li a:hover{
     left: 0;
   }
     .logo {
-    width: 180px;
+    width: 200px;
+    margin-top: 15px;
   }
 }
