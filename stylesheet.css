@@ -214,7 +214,8 @@ header {
 }
 
 .lesson img {
-  border-radius: 50%
+  border-radius: 50%;
+  padding-top: 30px;
 }
 
 .lesson-icon p {
