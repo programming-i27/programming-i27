@@ -153,7 +153,7 @@ header {
 
 }
 
-.fade-in {
+/* .fade-in {
   animation: fadeIn ease 20s;
   -webkit-animation: fadeIn ease 20s;
   -moz-animation: fadeIn ease 20s;
@@ -184,6 +184,19 @@ header {
 @-ms-keyframes fadeIn {
 0% {opacity:0;}
 100% {opacity:1;}
+} */
+
+.fade-in {
+  position: relative;
+  animation-name: fade-in;
+  animation-duration: 3s;  
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+}
+
+@keyframes fade-in {
+  from {top: 200px;}
+  to {top: 0px;}
 }
 
 .lesson:hover {
