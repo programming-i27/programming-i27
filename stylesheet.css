@@ -213,9 +213,12 @@ header {
   position: relative;
 }
 
+.lesson p {
+   padding-bottom: 30px;
+}
+
 .lesson img {
   border-radius: 50%;
-  padding-top: 30px;
 }
 
 .lesson-icon p {
